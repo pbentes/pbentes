@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
     <img height="60px" width="60px" src="/Touchmark.svg" />
     <h1 align="center">Pedro Bentes</h1>
