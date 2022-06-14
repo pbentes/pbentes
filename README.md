@@ -1,6 +1,5 @@
 <p align="center">
     <img width="60px" src="/Touchmark.svg" />
-    <h1 align="center">Pedro Bentes</h1>
 </p>
 <!--
 **PedroBentesIO/PedroBentesIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
